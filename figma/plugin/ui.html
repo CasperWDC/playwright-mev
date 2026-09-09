@@ -1,0 +1,52 @@
+<style>
+  body { font-family: -apple-system, sans-serif; font-size: 12px; padding: 10px; }
+  #status { margin-bottom: 8px; color: #333; }
+  #status.error { color: #c0392b; }
+  textarea { width: 100%; height: 190px; box-sizing: border-box; font-family: monospace; font-size: 10px; }
+  button { margin-right: 6px; margin-top: 6px; padding: 6px 10px; }
+</style>
+<div id="status">Select one breakpoint frame in Figma, then re-run the plugin.</div>
+<button id="copy" disabled>Copy JSON</button>
+<button id="download" disabled>Download JSON</button>
+<textarea id="out" readonly></textarea>
+<script>
+  let payload = null;
+  let suggestedName = 'tokens.json';
+
+  window.onmessage = (event) => {
+    const msg = event.data.pluginMessage;
+
+    if (msg.error) {
+      const el = document.getElementById('status');
+      el.textContent = msg.error;
+      el.className = 'error';
+      return;
+    }
+
+    payload = msg.tokens;
+    suggestedName = 'tokens-' + msg.frameName.toLowerCase().replace(/[^a-z0-9]+/g, '-') + '.json';
+
+    document.getElementById('status').textContent =
+      'Extracted "' + msg.frameName + '": ' + payload.texts.length + ' text nodes, ' + payload.frames.length + ' layout frames, ' + payload.borders.length + ' bordered nodes' +
+      (msg.skippedMixed ? ' (' + msg.skippedMixed + ' mixed-style text nodes skipped)' : '') + '.';
+    document.getElementById('status').className = '';
+    document.getElementById('out').value = JSON.stringify(payload, null, 2);
+    document.getElementById('copy').disabled = false;
+    document.getElementById('download').disabled = false;
+  };
+
+  document.getElementById('copy').onclick = () => {
+    const ta = document.getElementById('out');
+    ta.select();
+    document.execCommand('copy');
+  };
+
+  document.getElementById('download').onclick = () => {
+    const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = suggestedName;
+    a.click();
+  };
+</script>

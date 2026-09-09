@@ -1,0 +1,6803 @@
+{
+  "frame": {
+    "name": "Focal_tablet",
+    "width": 677,
+    "height": 9999
+  },
+  "texts": [
+    {
+      "name": "100+",
+      "text": "100+",
+      "fontFamily": "IBM Plex Sans",
+      "fontWeight": 500,
+      "fontSize": 8.163265228271484,
+      "lineHeight": 20.40816307067871,
+      "letterSpacing": -0.27210885286331177,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "x": 281,
+      "y": 328,
+      "width": 19,
+      "height": 21
+    },
+    {
+      "name": "Cartier",
+      "text": "Cartier",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 14,
+      "lineHeight": 20,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "x": 327,
+      "y": 331,
+      "width": 49,
+      "height": 20
+    },
+    {
+      "name": "Portfolio",
+      "text": "MEV Built a Custom Extranet and Inventory Management System for Cartier",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 48,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": null,
+      "x": 40,
+      "y": 387,
+      "width": 597,
+      "height": 232
+    },
+    {
+      "name": "Title",
+      "text": "legacy system replacement",
+      "fontFamily": "Google Sans",
+      "fontWeight": 500,
+      "fontSize": 18,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 104,
+      "y": 899,
+      "width": 517,
+      "height": 25
+    },
+    {
+      "name": "Subtitle",
+      "text": "Built a simpler extranet around Cartier’s internal workflows.",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 81,
+        "g": 81,
+        "b": 81,
+        "a": 1
+      },
+      "x": 104,
+      "y": 932,
+      "width": 517,
+      "height": 21
+    },
+    {
+      "name": "Title",
+      "text": "high-speed inventory search",
+      "fontFamily": "Google Sans",
+      "fontWeight": 500,
+      "fontSize": 18,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 104,
+      "y": 969,
+      "width": 517,
+      "height": 25
+    },
+    {
+      "name": "Subtitle",
+      "text": "Centralized product specifications for sales associates.",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 81,
+        "g": 81,
+        "b": 81,
+        "a": 1
+      },
+      "x": 104,
+      "y": 1002,
+      "width": 517,
+      "height": 21
+    },
+    {
+      "name": "Title",
+      "text": "multi-year platform evolution",
+      "fontFamily": "Google Sans",
+      "fontWeight": 500,
+      "fontSize": 18,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 104,
+      "y": 1039,
+      "width": 517,
+      "height": 25
+    },
+    {
+      "name": "Subtitle",
+      "text": "Added training and department-specific modules over time.",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 81,
+        "g": 81,
+        "b": 81,
+        "a": 1
+      },
+      "x": 104,
+      "y": 1072,
+      "width": 517,
+      "height": 21
+    },
+    {
+      "name": "Client",
+      "text": "Client",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 40,
+      "y": 1611,
+      "width": 265,
+      "height": 24
+    },
+    {
+      "name": "Cartier",
+      "text": "Cartier",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 81,
+        "g": 81,
+        "b": 81,
+        "a": 1
+      },
+      "x": 40,
+      "y": 1655,
+      "width": 265,
+      "height": 22
+    },
+    {
+      "name": "Industry",
+      "text": "Industry",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 349,
+      "y": 1611,
+      "width": 264,
+      "height": 24
+    },
+    {
+      "name": "Luxury goods / Jewelry",
+      "text": "Luxury goods / Jewelry",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 81,
+        "g": 81,
+        "b": 81,
+        "a": 1
+      },
+      "x": 349,
+      "y": 1655,
+      "width": 264,
+      "height": 22
+    },
+    {
+      "name": "Provided services",
+      "text": "Provided services",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 40,
+      "y": 1709,
+      "width": 265,
+      "height": 24
+    },
+    {
+      "name": "Software Product Development",
+      "text": "Software Product Development",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 81,
+        "g": 81,
+        "b": 81,
+        "a": 1
+      },
+      "x": 40,
+      "y": 1753,
+      "width": 265,
+      "height": 22
+    },
+    {
+      "name": "Infrastructure and DevOps",
+      "text": "Infrastructure and DevOps",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 81,
+        "g": 81,
+        "b": 81,
+        "a": 1
+      },
+      "x": 40,
+      "y": 1783,
+      "width": 265,
+      "height": 22
+    },
+    {
+      "name": "Technologies",
+      "text": "Technologies",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 349,
+      "y": 1709,
+      "width": 264,
+      "height": 24
+    },
+    {
+      "name": "LAMP stack / Xapian / ExtJS / PostgreSQL / PHP / Zend Framework",
+      "text": "LAMP stack / Xapian / ExtJS / PostgreSQL / PHP / Zend Framework",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 81,
+        "g": 81,
+        "b": 81,
+        "a": 1
+      },
+      "x": 349,
+      "y": 1753,
+      "width": 264,
+      "height": 66
+    },
+    {
+      "name": "Home",
+      "text": "Home",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 43,
+      "y": 114,
+      "width": 41,
+      "height": 21
+    },
+    {
+      "name": "Portfolio",
+      "text": "Portfolio",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 108,
+      "y": 114,
+      "width": 57,
+      "height": 21
+    },
+    {
+      "name": "Cartier",
+      "text": "Cartier",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 125,
+        "g": 125,
+        "b": 125,
+        "a": 1
+      },
+      "x": 189,
+      "y": 114,
+      "width": 47,
+      "height": 21
+    },
+    {
+      "name": "[",
+      "text": "[",
+      "fontFamily": "IBM Plex Sans",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "x": 51,
+      "y": 5936,
+      "width": 6,
+      "height": 24
+    },
+    {
+      "name": "Challenges",
+      "text": "portfolio",
+      "fontFamily": "IBM Plex Sans",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 241,
+        "g": 241,
+        "b": 241,
+        "a": 1
+      },
+      "x": 65,
+      "y": 5936,
+      "width": 62,
+      "height": 24
+    },
+    {
+      "name": "/",
+      "text": "/",
+      "fontFamily": "IBM Plex Sans",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "x": 127,
+      "y": 5936,
+      "width": 7,
+      "height": 24
+    },
+    {
+      "name": "]",
+      "text": "]",
+      "fontFamily": "IBM Plex Sans",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "x": 142,
+      "y": 5936,
+      "width": 6,
+      "height": 24
+    },
+    {
+      "name": "Solution & Implementation",
+      "text": "Related Сase Studies",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 40,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 39,
+      "y": 5982,
+      "width": 410,
+      "height": 48
+    },
+    {
+      "name": "Subheading",
+      "text": "This modernization enabled lower costs, scalable systems, improved UX, and certified API compliance.",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 81,
+        "g": 81,
+        "b": 81,
+        "a": 1
+      },
+      "x": 39,
+      "y": 6094,
+      "width": 410,
+      "height": 44
+    },
+    {
+      "name": "With over 120 dedica",
+      "text": "PillowPH /",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 24,
+        "g": 24,
+        "b": 27,
+        "a": 1
+      },
+      "x": 39,
+      "y": 6477,
+      "width": 71,
+      "height": 22
+    },
+    {
+      "name": "With over 120 dedica",
+      "text": "Healthcare",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 125,
+        "g": 125,
+        "b": 125,
+        "a": 1
+      },
+      "x": 114,
+      "y": 6477,
+      "width": 79,
+      "height": 22
+    },
+    {
+      "name": "With over 120 dedica",
+      "text": "MEV freed up time and locked in secure,HIPAA compliant data management",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 24,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 24,
+        "g": 24,
+        "b": 27,
+        "a": 1
+      },
+      "x": 39,
+      "y": 6507,
+      "width": 597,
+      "height": 62
+    },
+    {
+      "name": "With over 120 dedica",
+      "text": "Multiple Listing Service (MLS) provider for the Kauai and Hawaii Islands, as well as a data provider for businesses across the state and beyond",
+      "fontFamily": "IBM Plex Sans",
+      "fontWeight": 400,
+      "fontSize": 18,
+      "lineHeight": 26,
+      "letterSpacing": -0.4000000059604645,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "x": 39,
+      "y": 6547,
+      "width": 627,
+      "height": 52
+    },
+    {
+      "name": "business intelligence platform for the hotel industry",
+      "text": "business intelligence platform for the hotel industry",
+      "fontFamily": "Helvetica Neue",
+      "fontWeight": 500,
+      "fontSize": 26.0609073638916,
+      "lineHeight": 27.36395263671875,
+      "letterSpacing": -0.651522696018219,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 224,
+        "g": 62,
+        "b": 27,
+        "a": 1
+      },
+      "x": 68,
+      "y": 6618,
+      "width": 489,
+      "height": 132
+    },
+    {
+      "name": "Enterprise Software",
+      "text": "Enterprise Software",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.424363136291504,
+      "lineHeight": 13.681976318359375,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 4,
+      "y": 6927,
+      "width": 92,
+      "height": 25
+    },
+    {
+      "name": "Enterprise Software",
+      "text": "Enterprise Software",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.424363136291504,
+      "lineHeight": 13.681976318359375,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 435,
+      "y": 6887,
+      "width": 88,
+      "height": 52
+    },
+    {
+      "name": "Support",
+      "text": "Support",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.424363136291504,
+      "lineHeight": 13.681976318359375,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 525,
+      "y": 6852,
+      "width": 40,
+      "height": 28
+    },
+    {
+      "name": "Corporate Website",
+      "text": "Corporate Website",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.424363136291504,
+      "lineHeight": 13.681976318359375,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 327,
+      "y": 6684,
+      "width": 67,
+      "height": 74
+    },
+    {
+      "name": "Information Architecture",
+      "text": "Information Architecture",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.424363136291504,
+      "lineHeight": 13.681976318359375,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 460,
+      "y": 6771,
+      "width": 106,
+      "height": 58
+    },
+    {
+      "name": "Website",
+      "text": "Website",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.424363136291504,
+      "lineHeight": 13.681976318359375,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 599,
+      "y": 6906,
+      "width": 39,
+      "height": 16
+    },
+    {
+      "name": "Webdesign",
+      "text": "Webdesign",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.424363136291504,
+      "lineHeight": 13.681976318359375,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 1,
+      "y": 6820,
+      "width": 53,
+      "height": 17
+    },
+    {
+      "name": "Software Development",
+      "text": "Software Development",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.424363136291504,
+      "lineHeight": 13.681976318359375,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 123,
+      "y": 6794,
+      "width": 105,
+      "height": 35
+    },
+    {
+      "name": "UI/UX",
+      "text": "UI/UX",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.424363136291504,
+      "lineHeight": 13.681976318359375,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 347,
+      "y": 6888,
+      "width": 30,
+      "height": 18
+    },
+    {
+      "name": "Research",
+      "text": "Research",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.424363136291504,
+      "lineHeight": 13.681976318359375,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 399,
+      "y": 6784,
+      "width": 46,
+      "height": 20
+    },
+    {
+      "name": "2023",
+      "text": "2023",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.424363136291504,
+      "lineHeight": 13.681976318359375,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 491,
+      "y": 6750,
+      "width": 26,
+      "height": 16
+    },
+    {
+      "name": "Research",
+      "text": "Research",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.424363136291504,
+      "lineHeight": 13.681976318359375,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 84,
+      "y": 6762,
+      "width": 46,
+      "height": 20
+    },
+    {
+      "name": "Redesign Concept",
+      "text": "Redesign Concept",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.424363136291504,
+      "lineHeight": 13.681976318359375,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 275,
+      "y": 6834,
+      "width": 86,
+      "height": 20
+    },
+    {
+      "name": "Software Product Development",
+      "text": "Software Product Development",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.424363136291504,
+      "lineHeight": 13.681976318359375,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 71,
+      "y": 6872,
+      "width": 144,
+      "height": 26
+    },
+    {
+      "name": "Staffing and Team Augmentation",
+      "text": "Staffing and Team Augmentation",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.424363136291504,
+      "lineHeight": 13.681976318359375,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 194,
+      "y": 6940,
+      "width": 147,
+      "height": 14
+    },
+    {
+      "name": "With over 120 dedica",
+      "text": "Aristotle Circle /",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 24,
+        "g": 24,
+        "b": 27,
+        "a": 1
+      },
+      "x": 39,
+      "y": 7016,
+      "width": 117,
+      "height": 22
+    },
+    {
+      "name": "With over 120 dedica",
+      "text": "Education",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 125,
+        "g": 125,
+        "b": 125,
+        "a": 1
+      },
+      "x": 160,
+      "y": 7016,
+      "width": 73,
+      "height": 22
+    },
+    {
+      "name": "With over 120 dedica",
+      "text": "A Full-Service Internal and Client-Facing PlatformBuilt from the Ground Up",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 24,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 24,
+        "g": 24,
+        "b": 27,
+        "a": 1
+      },
+      "x": 39,
+      "y": 7046,
+      "width": 597,
+      "height": 62
+    },
+    {
+      "name": "With over 120 dedica",
+      "text": "Multiple Listing Service (MLS) provider for the Kauai and Hawaii Islands, as well as a data provider for businesses across the state and beyond",
+      "fontFamily": "IBM Plex Sans",
+      "fontWeight": 400,
+      "fontSize": 18,
+      "lineHeight": 26,
+      "letterSpacing": -0.4000000059604645,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "x": 39,
+      "y": 7116,
+      "width": 627,
+      "height": 52
+    },
+    {
+      "name": "Enterprise Software",
+      "text": "Enterprise Software",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "lineHeight": 21,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 10,
+      "y": 7470,
+      "width": 141,
+      "height": 37
+    },
+    {
+      "name": "Enterprise Software",
+      "text": "Enterprise Software",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "lineHeight": 21,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 440,
+      "y": 7431,
+      "width": 135,
+      "height": 79
+    },
+    {
+      "name": "Support",
+      "text": "Support",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "lineHeight": 21,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 530,
+      "y": 7396,
+      "width": 61,
+      "height": 42
+    },
+    {
+      "name": "Corporate Website",
+      "text": "Corporate Website",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "lineHeight": 21,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 332,
+      "y": 7230,
+      "width": 102,
+      "height": 114
+    },
+    {
+      "name": "Information Architecture",
+      "text": "Information Architecture",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "lineHeight": 21,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 465,
+      "y": 7315,
+      "width": 162,
+      "height": 88
+    },
+    {
+      "name": "Website",
+      "text": "Website",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "lineHeight": 21,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 603,
+      "y": 7448,
+      "width": 58,
+      "height": 24
+    },
+    {
+      "name": "Webdesign",
+      "text": "Webdesign",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "lineHeight": 21,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 7,
+      "y": 7362,
+      "width": 80,
+      "height": 26
+    },
+    {
+      "name": "Software Development",
+      "text": "Software Development",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "lineHeight": 21,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 129,
+      "y": 7337,
+      "width": 161,
+      "height": 53
+    },
+    {
+      "name": "UI/UX",
+      "text": "UI/UX",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "lineHeight": 21,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 352,
+      "y": 7430,
+      "width": 46,
+      "height": 27
+    },
+    {
+      "name": "Research",
+      "text": "Research",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "lineHeight": 21,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 404,
+      "y": 7326,
+      "width": 69,
+      "height": 30
+    },
+    {
+      "name": "2023",
+      "text": "2023",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "lineHeight": 21,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 495,
+      "y": 7293,
+      "width": 39,
+      "height": 23
+    },
+    {
+      "name": "Research",
+      "text": "Research",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "lineHeight": 21,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 90,
+      "y": 7304,
+      "width": 69,
+      "height": 30
+    },
+    {
+      "name": "Redesign Concept",
+      "text": "Redesign Concept",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "lineHeight": 21,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 280,
+      "y": 7377,
+      "width": 131,
+      "height": 29
+    },
+    {
+      "name": "Software Product Development",
+      "text": "Software Product Development",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "lineHeight": 21,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 77,
+      "y": 7415,
+      "width": 220,
+      "height": 39
+    },
+    {
+      "name": "Staffing and Team Augmentation",
+      "text": "Staffing and Team Augmentation",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "lineHeight": 21,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 88,
+        "g": 89,
+        "b": 96,
+        "a": 1
+      },
+      "x": 199,
+      "y": 7481,
+      "width": 226,
+      "height": 21
+    },
+    {
+      "name": "Enterprise Software",
+      "text": "Enterprise Software",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.382135391235352,
+      "lineHeight": 13.62655258178711,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 165,
+        "g": 165,
+        "b": 165,
+        "a": 1
+      },
+      "x": 55,
+      "y": 7448,
+      "width": 91,
+      "height": 25
+    },
+    {
+      "name": "Enterprise Software",
+      "text": "Enterprise Software",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.382135391235352,
+      "lineHeight": 13.62655258178711,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 165,
+        "g": 165,
+        "b": 165,
+        "a": 1
+      },
+      "x": 420,
+      "y": 7414,
+      "width": 87,
+      "height": 52
+    },
+    {
+      "name": "Support",
+      "text": "Support",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.382135391235352,
+      "lineHeight": 13.62655258178711,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 165,
+        "g": 165,
+        "b": 165,
+        "a": 1
+      },
+      "x": 497,
+      "y": 7385,
+      "width": 40,
+      "height": 28
+    },
+    {
+      "name": "Corporate Website",
+      "text": "Corporate Website",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.382135391235352,
+      "lineHeight": 13.62655258178711,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 165,
+        "g": 165,
+        "b": 165,
+        "a": 1
+      },
+      "x": 328,
+      "y": 7243,
+      "width": 67,
+      "height": 74
+    },
+    {
+      "name": "Information Architecture",
+      "text": "Information Architecture",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.382135391235352,
+      "lineHeight": 13.62655258178711,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 165,
+        "g": 165,
+        "b": 165,
+        "a": 1
+      },
+      "x": 441,
+      "y": 7316,
+      "width": 106,
+      "height": 58
+    },
+    {
+      "name": "Website",
+      "text": "Website",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.382135391235352,
+      "lineHeight": 13.62655258178711,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 165,
+        "g": 165,
+        "b": 165,
+        "a": 1
+      },
+      "x": 559,
+      "y": 7430,
+      "width": 38,
+      "height": 16
+    },
+    {
+      "name": "Webdesign",
+      "text": "Webdesign",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.382135391235352,
+      "lineHeight": 13.62655258178711,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 165,
+        "g": 165,
+        "b": 165,
+        "a": 1
+      },
+      "x": 53,
+      "y": 7357,
+      "width": 53,
+      "height": 17
+    },
+    {
+      "name": "Software Development",
+      "text": "Software Development",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.382135391235352,
+      "lineHeight": 13.62655258178711,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 165,
+        "g": 165,
+        "b": 165,
+        "a": 1
+      },
+      "x": 156,
+      "y": 7335,
+      "width": 105,
+      "height": 35
+    },
+    {
+      "name": "UI/UX",
+      "text": "UI/UX",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.382135391235352,
+      "lineHeight": 13.62655258178711,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 165,
+        "g": 165,
+        "b": 165,
+        "a": 1
+      },
+      "x": 346,
+      "y": 7414,
+      "width": 30,
+      "height": 18
+    },
+    {
+      "name": "Research",
+      "text": "Research",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.382135391235352,
+      "lineHeight": 13.62655258178711,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 165,
+        "g": 165,
+        "b": 165,
+        "a": 1
+      },
+      "x": 389,
+      "y": 7326,
+      "width": 46,
+      "height": 20
+    },
+    {
+      "name": "2023",
+      "text": "2023",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.382135391235352,
+      "lineHeight": 13.62655258178711,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 165,
+        "g": 165,
+        "b": 165,
+        "a": 1
+      },
+      "x": 467,
+      "y": 7298,
+      "width": 26,
+      "height": 16
+    },
+    {
+      "name": "Research",
+      "text": "Research",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.382135391235352,
+      "lineHeight": 13.62655258178711,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 165,
+        "g": 165,
+        "b": 165,
+        "a": 1
+      },
+      "x": 123,
+      "y": 7307,
+      "width": 46,
+      "height": 20
+    },
+    {
+      "name": "Redesign Concept",
+      "text": "Redesign Concept",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.382135391235352,
+      "lineHeight": 13.62655258178711,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 165,
+        "g": 165,
+        "b": 165,
+        "a": 1
+      },
+      "x": 284,
+      "y": 7369,
+      "width": 86,
+      "height": 20
+    },
+    {
+      "name": "Software Product Development",
+      "text": "Software Product Development",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.382135391235352,
+      "lineHeight": 13.62655258178711,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 165,
+        "g": 165,
+        "b": 165,
+        "a": 1
+      },
+      "x": 112,
+      "y": 7401,
+      "width": 143,
+      "height": 26
+    },
+    {
+      "name": "Staffing and Team Augmentation",
+      "text": "Staffing and Team Augmentation",
+      "fontFamily": "PP Neue Montreal",
+      "fontWeight": 500,
+      "fontSize": 10.382135391235352,
+      "lineHeight": 13.62655258178711,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 165,
+        "g": 165,
+        "b": 165,
+        "a": 1
+      },
+      "x": 216,
+      "y": 7458,
+      "width": 147,
+      "height": 14
+    },
+    {
+      "name": "Pursuant-fundraising and marketing agency",
+      "text": "Pursuant-fundraising \nand marketing agency",
+      "fontFamily": "Helvetica Neue",
+      "fontWeight": 500,
+      "fontSize": 25.955337524414062,
+      "lineHeight": 25.955337524414062,
+      "letterSpacing": -0.6488834619522095,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 224,
+        "g": 62,
+        "b": 27,
+        "a": 1
+      },
+      "x": 176,
+      "y": 7251,
+      "width": 323,
+      "height": 168
+    },
+    {
+      "name": "With over 120 dedica",
+      "text": "Pursuant /",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 24,
+        "g": 24,
+        "b": 27,
+        "a": 1
+      },
+      "x": 39,
+      "y": 7555,
+      "width": 73,
+      "height": 22
+    },
+    {
+      "name": "With over 120 dedica",
+      "text": "Media",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 125,
+        "g": 125,
+        "b": 125,
+        "a": 1
+      },
+      "x": 116,
+      "y": 7555,
+      "width": 45,
+      "height": 22
+    },
+    {
+      "name": "With over 120 dedica",
+      "text": "MEV solution facilitates reporting for Pursuant, a fundraising and marketing agency, and enables future growth",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 24,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 24,
+        "g": 24,
+        "b": 27,
+        "a": 1
+      },
+      "x": 39,
+      "y": 7585,
+      "width": 597,
+      "height": 93
+    },
+    {
+      "name": "With over 120 dedica",
+      "text": "Multiple Listing Service (MLS) provider for the Kauai and Hawaii Islands, as well as a data provider for businesses across the state and beyond",
+      "fontFamily": "IBM Plex Sans",
+      "fontWeight": 400,
+      "fontSize": 18,
+      "lineHeight": 26,
+      "letterSpacing": -0.4000000059604645,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "x": 39,
+      "y": 7625,
+      "width": 627,
+      "height": 52
+    },
+    {
+      "name": "visit page",
+      "text": "View All",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 12,
+      "lineHeight": 18,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "x": 55,
+      "y": 7706,
+      "width": 47,
+      "height": 18
+    },
+    {
+      "name": "by Kelly Anne Walbor",
+      "text": "AI - Alexander Natskovich",
+      "fontFamily": "IBM Plex Sans",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "x": 439,
+      "y": 6348,
+      "width": 190,
+      "height": 24
+    },
+    {
+      "name": "by Kelly Anne Walbor",
+      "text": "February 26, 2024",
+      "fontFamily": "IBM Plex Sans",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeight": 21,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "x": 439,
+      "y": 6348,
+      "width": 408,
+      "height": 21
+    },
+    {
+      "name": "The Power of Voice;",
+      "text": "Shifting from Coding Features to Solving Business Problems",
+      "fontFamily": "IBM Plex Sans",
+      "fontWeight": 500,
+      "fontSize": 18,
+      "lineHeight": 26,
+      "letterSpacing": -0.4000000059604645,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "x": 439,
+      "y": 6377,
+      "width": 408,
+      "height": 66
+    },
+    {
+      "name": "It seems these days",
+      "text": "It seems these days our greatest science fiction dreams are coming true with new advances in how we…",
+      "fontFamily": "IBM Plex Sans",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "x": 439,
+      "y": 6478,
+      "width": 467,
+      "height": 48
+    },
+    {
+      "name": "Portfolio",
+      "text": "Read more articles",
+      "fontFamily": "IBM Plex Sans",
+      "fontWeight": 500,
+      "fontSize": 18,
+      "lineHeight": 24,
+      "letterSpacing": -0.4000000059604645,
+      "textDecoration": "UNDERLINE",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "x": -1,
+      "y": 6508,
+      "width": 149,
+      "height": 24
+    },
+    {
+      "name": "[",
+      "text": "[",
+      "fontFamily": "IBM Plex Sans",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "x": 52,
+      "y": 5074,
+      "width": 6,
+      "height": 24
+    },
+    {
+      "name": "Challenges",
+      "text": "Results",
+      "fontFamily": "IBM Plex Mono",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "x": 66,
+      "y": 5074,
+      "width": 68,
+      "height": 24
+    },
+    {
+      "name": "/",
+      "text": "/",
+      "fontFamily": "IBM Plex Sans",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "x": 134,
+      "y": 5074,
+      "width": 7,
+      "height": 24
+    },
+    {
+      "name": "]",
+      "text": "]",
+      "fontFamily": "IBM Plex Sans",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "x": 149,
+      "y": 5074,
+      "width": 6,
+      "height": 24
+    },
+    {
+      "name": "Quantuvis is a healthcare technology company that developed the first complete SaaS solution for pharmaceutical rebate management.",
+      "text": "Simpler internal tools, centralized search, and broader adoption.",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 24,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 40,
+      "y": 5120,
+      "width": 597,
+      "height": 62
+    },
+    {
+      "name": "number",
+      "text": "01:",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 14,
+      "lineHeight": 25,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 224,
+        "g": 62,
+        "b": 27,
+        "a": 1
+      },
+      "x": 40,
+      "y": 5238,
+      "width": 20,
+      "height": 25
+    },
+    {
+      "name": "Headline",
+      "text": "Simpler Internal Operations",
+      "fontFamily": "Google Sans",
+      "fontWeight": 500,
+      "fontSize": 18,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 40,
+      "y": 5271,
+      "width": 597,
+      "height": 25
+    },
+    {
+      "name": "Subheading",
+      "text": "Employees gained a more manageable system for communications, training, and shared information.",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 40,
+      "y": 5308,
+      "width": 597,
+      "height": 44
+    },
+    {
+      "name": "number",
+      "text": "02:",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 14,
+      "lineHeight": 25,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 224,
+        "g": 62,
+        "b": 27,
+        "a": 1
+      },
+      "x": 40,
+      "y": 5406,
+      "width": 22,
+      "height": 25
+    },
+    {
+      "name": "Headline",
+      "text": "Centralized Inventory Search",
+      "fontFamily": "Google Sans",
+      "fontWeight": 500,
+      "fontSize": 18,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 40,
+      "y": 5439,
+      "width": 597,
+      "height": 25
+    },
+    {
+      "name": "Subheading",
+      "text": "Sales associates could search specifications for high-end pieces from one tool.",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 40,
+      "y": 5476,
+      "width": 597,
+      "height": 22
+    },
+    {
+      "name": "number",
+      "text": "03:",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 14,
+      "lineHeight": 25,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 224,
+        "g": 62,
+        "b": 27,
+        "a": 1
+      },
+      "x": 40,
+      "y": 5552,
+      "width": 22,
+      "height": 25
+    },
+    {
+      "name": "Headline",
+      "text": "Broader Internal Adoption",
+      "fontFamily": "Google Sans",
+      "fontWeight": 500,
+      "fontSize": 18,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 40,
+      "y": 5585,
+      "width": 597,
+      "height": 25
+    },
+    {
+      "name": "Subheading",
+      "text": "Internal activity increased, and new modules extended the system to other departments.",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 40,
+      "y": 5622,
+      "width": 597,
+      "height": 44
+    },
+    {
+      "name": "number",
+      "text": "04:",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 14,
+      "lineHeight": 25,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 224,
+        "g": 62,
+        "b": 27,
+        "a": 1
+      },
+      "x": 40,
+      "y": 5720,
+      "width": 22,
+      "height": 25
+    },
+    {
+      "name": "Headline",
+      "text": "Lower Operating Costs",
+      "fontFamily": "Google Sans",
+      "fontWeight": 500,
+      "fontSize": 18,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 40,
+      "y": 5753,
+      "width": 597,
+      "height": 25
+    },
+    {
+      "name": "Subheading",
+      "text": "The simpler systems streamlined internal work and reduced overall costs.",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 40,
+      "y": 5790,
+      "width": 597,
+      "height": 22
+    },
+    {
+      "name": "[",
+      "text": "[",
+      "fontFamily": "IBM Plex Sans",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "x": 201,
+      "y": 1991,
+      "width": 6,
+      "height": 24
+    },
+    {
+      "name": "Challenges",
+      "text": "client & product overview",
+      "fontFamily": "IBM Plex Mono",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "x": 215,
+      "y": 1991,
+      "width": 240,
+      "height": 24
+    },
+    {
+      "name": "/",
+      "text": "/",
+      "fontFamily": "IBM Plex Sans",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "x": 455,
+      "y": 1991,
+      "width": 7,
+      "height": 24
+    },
+    {
+      "name": "]",
+      "text": "]",
+      "fontFamily": "IBM Plex Sans",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "x": 470,
+      "y": 1991,
+      "width": 6,
+      "height": 24
+    },
+    {
+      "name": "Solution & Implementation",
+      "text": "OpenStudy: A Global Peer-Learning Network",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 40,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 260,
+      "y": 2037,
+      "width": 850,
+      "height": 48
+    },
+    {
+      "name": "Subheading",
+      "text": "To stabilize, optimize, and modernize the platform, our approach focused on key infrastructure, deployment, and development improvements.",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 81,
+        "g": 81,
+        "b": 81,
+        "a": 1
+      },
+      "x": 260,
+      "y": 2101,
+      "width": 850,
+      "height": 44
+    },
+    {
+      "name": "We implemented Clever OAuth 2.0 end-to-end across backend and frontend, including identity mapping, token handling, and integration with the existing AWS Cognito setup. The scope also covered automated provisioning and roster synchronization, including initial import and incremental updates, plus conflict handling for mismatched data.",
+      "text": "Cartier is a global luxury jewelry and watchmaking company. Its employees relied on an internal extranet for communications and operational information, while sales associates needed access to product specifications for high-end pieces.",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 18,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 40,
+      "y": 2053,
+      "width": 597,
+      "height": 100
+    },
+    {
+      "name": "MEV partnered with Source Digital to deliver a production-ready Clever SSO integration for an educational platform initiative under a fixed deadline, while keeping the existing username and password flow intact. Alongside the SSO rollout, Source Digital also wanted to reduce long-term dependency risk in its SDK ecosystem.",
+      "text": "The existing extranet was too complex for Cartier’s day-to-day workflows, and product information was scattered across the company.",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 40,
+      "y": 2169,
+      "width": 597,
+      "height": 44
+    },
+    {
+      "name": "We implemented Clever OAuth 2.0 end-to-end across backend and frontend, including identity mapping, token handling, and integration with the existing AWS Cognito setup. The scope also covered automated provisioning and roster synchronization, including initial import and incremental updates, plus conflict handling for mismatched data.",
+      "text": "OpenStudy had more than 2 million users. By the time Brainly acquired the company, OpenStudy reported that its Q&A platform had helped 54 million learners.",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 18,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 41,
+      "y": 2226,
+      "width": 848,
+      "height": 50
+    },
+    {
+      "name": "[",
+      "text": "[",
+      "fontFamily": "IBM Plex Sans",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "x": 620,
+      "y": 2783,
+      "width": 6,
+      "height": 24
+    },
+    {
+      "name": "Challenges",
+      "text": "client & product overview",
+      "fontFamily": "IBM Plex Mono",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "x": 634,
+      "y": 2783,
+      "width": 240,
+      "height": 24
+    },
+    {
+      "name": "/",
+      "text": "/",
+      "fontFamily": "IBM Plex Sans",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "x": 874,
+      "y": 2783,
+      "width": 7,
+      "height": 24
+    },
+    {
+      "name": "]",
+      "text": "]",
+      "fontFamily": "IBM Plex Sans",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "x": 745,
+      "y": 2783,
+      "width": 6,
+      "height": 24
+    },
+    {
+      "name": "Solution & Implementation",
+      "text": "Executive Summary",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 40,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": -86,
+      "y": 2779,
+      "width": 850,
+      "height": 48
+    },
+    {
+      "name": "Subheading",
+      "text": "To stabilize, optimize, and modernize the platform, our approach focused on key infrastructure, deployment, and development improvements.",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 81,
+        "g": 81,
+        "b": 81,
+        "a": 1
+      },
+      "x": 260,
+      "y": 2893,
+      "width": 850,
+      "height": 44
+    },
+    {
+      "name": "MEV partnered with Source Digital to deliver a production-ready Clever SSO integration for an educational platform initiative under a fixed deadline, while keeping the existing username and password flow intact. Alongside the SSO rollout, Source Digital also wanted to reduce long-term dependency risk in its SDK ecosystem.",
+      "text": "MEV reviewed the existing system and determined that replacement would be more useful than continued modification. The team built a custom extranet on an open-source LAMP stack, migrated and reformatted Cartier’s data, and created the High Jewelry Search tool using Xapian.",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 40,
+      "y": 2859,
+      "width": 597,
+      "height": 88
+    },
+    {
+      "name": "We implemented Clever OAuth 2.0 end-to-end across backend and frontend, including identity mapping, token handling, and integration with the existing AWS Cognito setup. The scope also covered automated provisioning and roster synchronization, including initial import and incremental updates, plus conflict handling for mismatched data.",
+      "text": "The new systems centralized communications, training, and product information. Internal use increased, the platform expanded to other departments, and MEV continued supporting and extending it for several years.",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 18,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 40,
+      "y": 2963,
+      "width": 597,
+      "height": 100
+    },
+    {
+      "name": "info",
+      "text": "20,000+",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 32,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 396,
+      "y": 3066,
+      "width": 126,
+      "height": 38
+    },
+    {
+      "name": "signed photos",
+      "text": "signed photos",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 530,
+      "y": 3075,
+      "width": 96,
+      "height": 21
+    },
+    {
+      "name": "info",
+      "text": "20",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 32,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 846,
+      "y": 3066,
+      "width": 39,
+      "height": 38
+    },
+    {
+      "name": "countries reached",
+      "text": "countries reached",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 893,
+      "y": 3075,
+      "width": 121,
+      "height": 21
+    },
+    {
+      "name": "Rethink Your Internal Systems",
+      "text": "Rethink Your Internal Systems",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 32,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "x": 104,
+      "y": 3222,
+      "width": 492,
+      "height": 38
+    },
+    {
+      "name": "MEV helps replace or extend internal platforms as business needs evolve.",
+      "text": "MEV helps replace or extend internal platforms as business needs evolve.",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 212,
+        "g": 212,
+        "b": 212,
+        "a": 1
+      },
+      "x": 104,
+      "y": 3270,
+      "width": 492,
+      "height": 44
+    },
+    {
+      "name": "Book a Free Consultation",
+      "text": "Start a Conversation",
+      "fontFamily": "Google Sans",
+      "fontWeight": 500,
+      "fontSize": 14,
+      "lineHeight": 20,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "x": 196,
+      "y": 3409,
+      "width": 133,
+      "height": 20
+    },
+    {
+      "name": "Tap the button",
+      "text": "Tap the button",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "x": 413,
+      "y": 3409,
+      "width": 93,
+      "height": 21
+    },
+    {
+      "name": "[",
+      "text": "[",
+      "fontFamily": "IBM Plex Sans",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "x": 52,
+      "y": 3605,
+      "width": 6,
+      "height": 24
+    },
+    {
+      "name": "Challenges",
+      "text": "How We Did It",
+      "fontFamily": "IBM Plex Mono",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 241,
+        "g": 241,
+        "b": 241,
+        "a": 1
+      },
+      "x": 66,
+      "y": 3605,
+      "width": 125,
+      "height": 24
+    },
+    {
+      "name": "/",
+      "text": "/",
+      "fontFamily": "IBM Plex Sans",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "x": 191,
+      "y": 3605,
+      "width": 7,
+      "height": 24
+    },
+    {
+      "name": "]",
+      "text": "]",
+      "fontFamily": "IBM Plex Sans",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 24,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "x": 206,
+      "y": 3605,
+      "width": 6,
+      "height": 24
+    },
+    {
+      "name": "Solution & Implementation",
+      "text": "Solution & Implementation",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 40,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 40,
+      "y": 3651,
+      "width": 597,
+      "height": 48
+    },
+    {
+      "name": "Subheading",
+      "text": "MEV replaced the legacy extranet, centralized product data, and extended the platform with search, training, and department-specific functionality.",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 81,
+        "g": 81,
+        "b": 81,
+        "a": 1
+      },
+      "x": 40,
+      "y": 3715,
+      "width": 597,
+      "height": 44
+    },
+    {
+      "name": "Headline",
+      "text": "Replaced the Legacy Extranet with a Custom Internal Platform",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 24,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 40,
+      "y": 3791,
+      "width": 597,
+      "height": 62
+    },
+    {
+      "name": "Subheading",
+      "text": "MEV assessed Cartier’s existing extranet and found that its complexity did not match the needs of the company’s non-technical users. The team replaced it with a simpler custom platform.",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 40,
+      "y": 3861,
+      "width": 597,
+      "height": 66
+    },
+    {
+      "name": "Headline",
+      "text": "Built the High Jewelry Search Tool",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 24,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 40,
+      "y": 4304,
+      "width": 597,
+      "height": 31
+    },
+    {
+      "name": "Subheading",
+      "text": "Product information for Cartier’s high-end pieces was distributed across the company. MEV created a centralized inventory search tool for sales associates.",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 40,
+      "y": 4343,
+      "width": 597,
+      "height": 44
+    },
+    {
+      "name": "Headline",
+      "text": "Extended and Supported the Platform",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 500,
+      "fontSize": 24,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 40,
+      "y": 4659,
+      "width": 597,
+      "height": 31
+    },
+    {
+      "name": "Subheading",
+      "text": "MEV continued supporting the system after launch and expanded it as additional internal needs emerged.",
+      "fontFamily": "Google Sans Flex",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeight": 0,
+      "letterSpacing": 0,
+      "textDecoration": "NONE",
+      "color": {
+        "r": 38,
+        "g": 38,
+        "b": 38,
+        "a": 1
+      },
+      "x": 40,
+      "y": 4698,
+      "width": 597,
+      "height": 44
+    }
+  ],
+  "frames": [
+    {
+      "name": "Frame 2147226661",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 240,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 0,
+      "y": 0,
+      "width": 677,
+      "height": 1867
+    },
+    {
+      "name": "Title",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 24,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 320,
+      "width": 597,
+      "height": 299
+    },
+    {
+      "name": "logo + name",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 12,
+      "padding": {
+        "top": 5.5,
+        "right": 24,
+        "bottom": 5.5,
+        "left": 5.5
+      },
+      "x": 277,
+      "y": 320,
+      "width": 123,
+      "height": 43
+    },
+    {
+      "name": "Frame 1000005843",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": -8.163265228271484,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 283,
+      "y": 326,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "name": "title",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": -0.6399993896484375,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0.5900001525878906,
+        "left": 0
+      },
+      "x": 327,
+      "y": 331,
+      "width": 49,
+      "height": 21
+    },
+    {
+      "name": "title",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 16,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 387,
+      "width": 597,
+      "height": 232
+    },
+    {
+      "name": "Info",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 48,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 0,
+      "y": 859,
+      "width": 677,
+      "height": 1008
+    },
+    {
+      "name": "Results",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 10,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 0,
+      "y": 859,
+      "width": 677,
+      "height": 234
+    },
+    {
+      "name": "Results",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 40,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 859,
+      "width": 597,
+      "height": 234
+    },
+    {
+      "name": "Points",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 16,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 899,
+      "width": 597,
+      "height": 194
+    },
+    {
+      "name": " Item",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 32,
+      "padding": {
+        "top": 0,
+        "right": 16,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 899,
+      "width": 597,
+      "height": 54
+    },
+    {
+      "name": "Icon",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 13.333333969116211,
+      "padding": {
+        "top": 16,
+        "right": 16,
+        "bottom": 16,
+        "left": 16
+      },
+      "x": 40,
+      "y": 899,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "name": "Text + CTA",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 24,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 104,
+      "y": 899,
+      "width": 517,
+      "height": 54
+    },
+    {
+      "name": "Text",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 104,
+      "y": 899,
+      "width": 517,
+      "height": 54
+    },
+    {
+      "name": "Item",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 32,
+      "padding": {
+        "top": 0,
+        "right": 16,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 969,
+      "width": 597,
+      "height": 54
+    },
+    {
+      "name": "Icon",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 13.333333969116211,
+      "padding": {
+        "top": 16,
+        "right": 16,
+        "bottom": 16,
+        "left": 16
+      },
+      "x": 40,
+      "y": 969,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "name": "Text + CTA",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 24,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 104,
+      "y": 969,
+      "width": 517,
+      "height": 54
+    },
+    {
+      "name": "Text",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 104,
+      "y": 969,
+      "width": 517,
+      "height": 54
+    },
+    {
+      "name": "Item",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 32,
+      "padding": {
+        "top": 0,
+        "right": 16,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 1039,
+      "width": 597,
+      "height": 54
+    },
+    {
+      "name": "Icon",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 13.333333969116211,
+      "padding": {
+        "top": 16,
+        "right": 16,
+        "bottom": 16,
+        "left": 16
+      },
+      "x": 40,
+      "y": 1039,
+      "width": 32,
+      "height": 32
+    },
+    {
+      "name": "Text + CTA",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 24,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 104,
+      "y": 1039,
+      "width": 517,
+      "height": 54
+    },
+    {
+      "name": "Text",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 104,
+      "y": 1039,
+      "width": 517,
+      "height": 54
+    },
+    {
+      "name": "About",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 64,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 0,
+      "y": 1141,
+      "width": 677,
+      "height": 726
+    },
+    {
+      "name": "Picture",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 40,
+      "padding": {
+        "top": 9,
+        "right": 0,
+        "bottom": 9,
+        "left": 0
+      },
+      "x": 40,
+      "y": 1141,
+      "width": 597,
+      "height": 406
+    },
+    {
+      "name": "Details",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 48,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 1611,
+      "width": 597,
+      "height": 256
+    },
+    {
+      "name": "Details",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 20,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 1611,
+      "width": 597,
+      "height": 208
+    },
+    {
+      "name": "Industry",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 20,
+      "padding": {
+        "top": 0,
+        "right": 24,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 1611,
+      "width": 289,
+      "height": 66
+    },
+    {
+      "name": "Frame 1948755713",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 1655,
+      "width": 265,
+      "height": 22
+    },
+    {
+      "name": "Services",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 20,
+      "padding": {
+        "top": 0,
+        "right": 24,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 349,
+      "y": 1611,
+      "width": 288,
+      "height": 66
+    },
+    {
+      "name": "Frame 1948755712",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 349,
+      "y": 1655,
+      "width": 264,
+      "height": 22
+    },
+    {
+      "name": "Duration",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 20,
+      "padding": {
+        "top": 0,
+        "right": 24,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 1709,
+      "width": 289,
+      "height": 96
+    },
+    {
+      "name": "Frame 1948755712",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 1753,
+      "width": 265,
+      "height": 52
+    },
+    {
+      "name": "Details",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 30,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 349,
+      "y": 1709,
+      "width": 288,
+      "height": 110
+    },
+    {
+      "name": "Stack",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 20,
+      "padding": {
+        "top": 0,
+        "right": 24,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 349,
+      "y": 1709,
+      "width": 288,
+      "height": 110
+    },
+    {
+      "name": "Frame 2147226663",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 349,
+      "y": 1753,
+      "width": 264,
+      "height": 66
+    },
+    {
+      "name": "BreadCrumbs",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 0,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 39,
+      "y": 112,
+      "width": 201,
+      "height": 25
+    },
+    {
+      "name": "State=Selected, Icon=Off",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 4,
+      "padding": {
+        "top": 2,
+        "right": 4,
+        "bottom": 2,
+        "left": 4
+      },
+      "x": 39,
+      "y": 112,
+      "width": 49,
+      "height": 25
+    },
+    {
+      "name": "BreadCrumbs",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 0,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 88,
+      "y": 112,
+      "width": 81,
+      "height": 25
+    },
+    {
+      "name": "State=Selected, Icon=Off",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 4,
+      "padding": {
+        "top": 2,
+        "right": 4,
+        "bottom": 2,
+        "left": 4
+      },
+      "x": 104,
+      "y": 112,
+      "width": 65,
+      "height": 25
+    },
+    {
+      "name": "BreadCrumbs",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 0,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 169,
+      "y": 112,
+      "width": 71,
+      "height": 25
+    },
+    {
+      "name": "State=Selected, Icon=Off",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 4,
+      "padding": {
+        "top": 2,
+        "right": 4,
+        "bottom": 2,
+        "left": 4
+      },
+      "x": 185,
+      "y": 112,
+      "width": 55,
+      "height": 25
+    },
+    {
+      "name": "Blog",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 32,
+      "padding": {
+        "top": 0,
+        "right": 40,
+        "bottom": 0,
+        "left": 40
+      },
+      "x": -1,
+      "y": 5932,
+      "width": 677,
+      "height": 1795
+    },
+    {
+      "name": "side heading / option 1",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 16,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 39,
+      "y": 5932,
+      "width": 410,
+      "height": 98
+    },
+    {
+      "name": "tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 4,
+        "right": 12,
+        "bottom": 6,
+        "left": 12
+      },
+      "x": 39,
+      "y": 5932,
+      "width": 121,
+      "height": 34
+    },
+    {
+      "name": "text",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 0,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 65,
+      "y": 5936,
+      "width": 69,
+      "height": 24
+    },
+    {
+      "name": "Frame 2147226666",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 24,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 39,
+      "y": 6062,
+      "width": 597,
+      "height": 1665
+    },
+    {
+      "name": "Frame 2147226665",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 32,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 39,
+      "y": 6062,
+      "width": 597,
+      "height": 1616
+    },
+    {
+      "name": "Frame 1948755125",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 30,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 39,
+      "y": 6062,
+      "width": 597,
+      "height": 507
+    },
+    {
+      "name": "HIS",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 24,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 39,
+      "y": 6062,
+      "width": 597,
+      "height": 507
+    },
+    {
+      "name": "img",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 15.593786239624023,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 39,
+      "y": 6062,
+      "width": 597,
+      "height": 391
+    },
+    {
+      "name": "Text",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 39,
+      "y": 6477,
+      "width": 597,
+      "height": 92
+    },
+    {
+      "name": "Name",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 4,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 39,
+      "y": 6477,
+      "width": 154,
+      "height": 22
+    },
+    {
+      "name": "Frame 1000005844",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 39,
+      "y": 6507,
+      "width": 597,
+      "height": 62
+    },
+    {
+      "name": "quantuvis",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 24,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 39,
+      "y": 6601,
+      "width": 597,
+      "height": 507
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.5152268409729,
+      "padding": {
+        "top": 5.212181568145752,
+        "right": 10.424363136291504,
+        "bottom": 5.212181568145752,
+        "left": 10.424363136291504
+      },
+      "x": -7,
+      "y": 6921,
+      "width": 114,
+      "height": 38
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.5152268409729,
+      "padding": {
+        "top": 5.212181568145752,
+        "right": 10.424363136291504,
+        "bottom": 5.212181568145752,
+        "left": 10.424363136291504
+      },
+      "x": 423,
+      "y": 6878,
+      "width": 112,
+      "height": 70
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.5152268409729,
+      "padding": {
+        "top": 5.212181568145752,
+        "right": 10.424363136291504,
+        "bottom": 5.212181568145752,
+        "left": 10.424363136291504
+      },
+      "x": 514,
+      "y": 6843,
+      "width": 63,
+      "height": 46
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.5152268409729,
+      "padding": {
+        "top": 5.212181568145752,
+        "right": 10.424363136291504,
+        "bottom": 5.212181568145752,
+        "left": 10.424363136291504
+      },
+      "x": 316,
+      "y": 6673,
+      "width": 88,
+      "height": 97
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.5152268409729,
+      "padding": {
+        "top": 5.212181568145752,
+        "right": 10.424363136291504,
+        "bottom": 5.212181568145752,
+        "left": 10.424363136291504
+      },
+      "x": 448,
+      "y": 6762,
+      "width": 130,
+      "height": 76
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.5152268409729,
+      "padding": {
+        "top": 5.212181568145752,
+        "right": 10.424363136291504,
+        "bottom": 5.212181568145752,
+        "left": 10.424363136291504
+      },
+      "x": 588,
+      "y": 6900,
+      "width": 60,
+      "height": 28
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.5152268409729,
+      "padding": {
+        "top": 5.212181568145752,
+        "right": 10.424363136291504,
+        "bottom": 5.212181568145752,
+        "left": 10.424363136291504
+      },
+      "x": -9,
+      "y": 6814,
+      "width": 74,
+      "height": 29
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.5152268409729,
+      "padding": {
+        "top": 5.212181568145752,
+        "right": 10.424363136291504,
+        "bottom": 5.212181568145752,
+        "left": 10.424363136291504
+      },
+      "x": 112,
+      "y": 6786,
+      "width": 127,
+      "height": 49
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.5152268409729,
+      "padding": {
+        "top": 5.212181568145752,
+        "right": 10.424363136291504,
+        "bottom": 5.212181568145752,
+        "left": 10.424363136291504
+      },
+      "x": 336,
+      "y": 6881,
+      "width": 52,
+      "height": 31
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.5152268409729,
+      "padding": {
+        "top": 5.212181568145752,
+        "right": 10.424363136291504,
+        "bottom": 5.212181568145752,
+        "left": 10.424363136291504
+      },
+      "x": 388,
+      "y": 6777,
+      "width": 68,
+      "height": 33
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.5152268409729,
+      "padding": {
+        "top": 5.212181568145752,
+        "right": 10.424363136291504,
+        "bottom": 5.212181568145752,
+        "left": 10.424363136291504
+      },
+      "x": 480,
+      "y": 6744,
+      "width": 47,
+      "height": 27
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.5152268409729,
+      "padding": {
+        "top": 5.212181568145752,
+        "right": 10.424363136291504,
+        "bottom": 5.212181568145752,
+        "left": 10.424363136291504
+      },
+      "x": 73,
+      "y": 6755,
+      "width": 68,
+      "height": 33
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.5152268409729,
+      "padding": {
+        "top": 5.212181568145752,
+        "right": 10.424363136291504,
+        "bottom": 5.212181568145752,
+        "left": 10.424363136291504
+      },
+      "x": 264,
+      "y": 6829,
+      "width": 107,
+      "height": 31
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.5152268409729,
+      "padding": {
+        "top": 5.212181568145752,
+        "right": 10.424363136291504,
+        "bottom": 5.212181568145752,
+        "left": 10.424363136291504
+      },
+      "x": 60,
+      "y": 6866,
+      "width": 165,
+      "height": 38
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.5152268409729,
+      "padding": {
+        "top": 5.212181568145752,
+        "right": 10.424363136291504,
+        "bottom": 5.212181568145752,
+        "left": 10.424363136291504
+      },
+      "x": 184,
+      "y": 6935,
+      "width": 168,
+      "height": 25
+    },
+    {
+      "name": "Text",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 39,
+      "y": 7016,
+      "width": 597,
+      "height": 92
+    },
+    {
+      "name": "Name",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 4,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 39,
+      "y": 7016,
+      "width": 194,
+      "height": 22
+    },
+    {
+      "name": "Frame 1000005844",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 39,
+      "y": 7046,
+      "width": 597,
+      "height": 62
+    },
+    {
+      "name": "open study",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 24,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 39,
+      "y": 7140,
+      "width": 597,
+      "height": 538
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 10,
+      "padding": {
+        "top": 8,
+        "right": 16,
+        "bottom": 8,
+        "left": 16
+      },
+      "x": -7,
+      "y": 7460,
+      "width": 174,
+      "height": 57
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 10,
+      "padding": {
+        "top": 8,
+        "right": 16,
+        "bottom": 8,
+        "left": 16
+      },
+      "x": 422,
+      "y": 7417,
+      "width": 171,
+      "height": 107
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 10,
+      "padding": {
+        "top": 8,
+        "right": 16,
+        "bottom": 8,
+        "left": 16
+      },
+      "x": 512,
+      "y": 7382,
+      "width": 97,
+      "height": 70
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 10,
+      "padding": {
+        "top": 8,
+        "right": 16,
+        "bottom": 8,
+        "left": 16
+      },
+      "x": 315,
+      "y": 7212,
+      "width": 135,
+      "height": 148
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 10,
+      "padding": {
+        "top": 8,
+        "right": 16,
+        "bottom": 8,
+        "left": 16
+      },
+      "x": 447,
+      "y": 7302,
+      "width": 198,
+      "height": 116
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 10,
+      "padding": {
+        "top": 8,
+        "right": 16,
+        "bottom": 8,
+        "left": 16
+      },
+      "x": 587,
+      "y": 7439,
+      "width": 91,
+      "height": 42
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 10,
+      "padding": {
+        "top": 8,
+        "right": 16,
+        "bottom": 8,
+        "left": 16
+      },
+      "x": -9,
+      "y": 7353,
+      "width": 113,
+      "height": 44
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 10,
+      "padding": {
+        "top": 8,
+        "right": 16,
+        "bottom": 8,
+        "left": 16
+      },
+      "x": 112,
+      "y": 7326,
+      "width": 196,
+      "height": 75
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 10,
+      "padding": {
+        "top": 8,
+        "right": 16,
+        "bottom": 8,
+        "left": 16
+      },
+      "x": 335,
+      "y": 7420,
+      "width": 79,
+      "height": 47
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 10,
+      "padding": {
+        "top": 8,
+        "right": 16,
+        "bottom": 8,
+        "left": 16
+      },
+      "x": 387,
+      "y": 7316,
+      "width": 103,
+      "height": 50
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 10,
+      "padding": {
+        "top": 8,
+        "right": 16,
+        "bottom": 8,
+        "left": 16
+      },
+      "x": 479,
+      "y": 7284,
+      "width": 72,
+      "height": 42
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 10,
+      "padding": {
+        "top": 8,
+        "right": 16,
+        "bottom": 8,
+        "left": 16
+      },
+      "x": 73,
+      "y": 7294,
+      "width": 103,
+      "height": 50
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 10,
+      "padding": {
+        "top": 8,
+        "right": 16,
+        "bottom": 8,
+        "left": 16
+      },
+      "x": 264,
+      "y": 7368,
+      "width": 164,
+      "height": 48
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 10,
+      "padding": {
+        "top": 8,
+        "right": 16,
+        "bottom": 8,
+        "left": 16
+      },
+      "x": 60,
+      "y": 7405,
+      "width": 253,
+      "height": 58
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 10,
+      "padding": {
+        "top": 8,
+        "right": 16,
+        "bottom": 8,
+        "left": 16
+      },
+      "x": 183,
+      "y": 7473,
+      "width": 258,
+      "height": 38
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.488834381103516,
+      "padding": {
+        "top": 5.191067695617676,
+        "right": 10.382135391235352,
+        "bottom": 5.191067695617676,
+        "left": 10.382135391235352
+      },
+      "x": 44,
+      "y": 7442,
+      "width": 113,
+      "height": 37
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.488834381103516,
+      "padding": {
+        "top": 5.191067695617676,
+        "right": 10.382135391235352,
+        "bottom": 5.191067695617676,
+        "left": 10.382135391235352
+      },
+      "x": 408,
+      "y": 7405,
+      "width": 111,
+      "height": 70
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.488834381103516,
+      "padding": {
+        "top": 5.191067695617676,
+        "right": 10.382135391235352,
+        "bottom": 5.191067695617676,
+        "left": 10.382135391235352
+      },
+      "x": 485,
+      "y": 7376,
+      "width": 63,
+      "height": 46
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.488834381103516,
+      "padding": {
+        "top": 5.191067695617676,
+        "right": 10.382135391235352,
+        "bottom": 5.191067695617676,
+        "left": 10.382135391235352
+      },
+      "x": 317,
+      "y": 7231,
+      "width": 88,
+      "height": 97
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.488834381103516,
+      "padding": {
+        "top": 5.191067695617676,
+        "right": 10.382135391235352,
+        "bottom": 5.191067695617676,
+        "left": 10.382135391235352
+      },
+      "x": 429,
+      "y": 7307,
+      "width": 130,
+      "height": 76
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.488834381103516,
+      "padding": {
+        "top": 5.191067695617676,
+        "right": 10.382135391235352,
+        "bottom": 5.191067695617676,
+        "left": 10.382135391235352
+      },
+      "x": 548,
+      "y": 7424,
+      "width": 59,
+      "height": 28
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.488834381103516,
+      "padding": {
+        "top": 5.191067695617676,
+        "right": 10.382135391235352,
+        "bottom": 5.191067695617676,
+        "left": 10.382135391235352
+      },
+      "x": 42,
+      "y": 7351,
+      "width": 74,
+      "height": 29
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.488834381103516,
+      "padding": {
+        "top": 5.191067695617676,
+        "right": 10.382135391235352,
+        "bottom": 5.191067695617676,
+        "left": 10.382135391235352
+      },
+      "x": 145,
+      "y": 7328,
+      "width": 127,
+      "height": 49
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.488834381103516,
+      "padding": {
+        "top": 5.191067695617676,
+        "right": 10.382135391235352,
+        "bottom": 5.191067695617676,
+        "left": 10.382135391235352
+      },
+      "x": 335,
+      "y": 7408,
+      "width": 52,
+      "height": 31
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.488834381103516,
+      "padding": {
+        "top": 5.191067695617676,
+        "right": 10.382135391235352,
+        "bottom": 5.191067695617676,
+        "left": 10.382135391235352
+      },
+      "x": 378,
+      "y": 7320,
+      "width": 68,
+      "height": 33
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.488834381103516,
+      "padding": {
+        "top": 5.191067695617676,
+        "right": 10.382135391235352,
+        "bottom": 5.191067695617676,
+        "left": 10.382135391235352
+      },
+      "x": 456,
+      "y": 7292,
+      "width": 47,
+      "height": 27
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.488834381103516,
+      "padding": {
+        "top": 5.191067695617676,
+        "right": 10.382135391235352,
+        "bottom": 5.191067695617676,
+        "left": 10.382135391235352
+      },
+      "x": 112,
+      "y": 7301,
+      "width": 68,
+      "height": 33
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.488834381103516,
+      "padding": {
+        "top": 5.191067695617676,
+        "right": 10.382135391235352,
+        "bottom": 5.191067695617676,
+        "left": 10.382135391235352
+      },
+      "x": 274,
+      "y": 7363,
+      "width": 107,
+      "height": 31
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.488834381103516,
+      "padding": {
+        "top": 5.191067695617676,
+        "right": 10.382135391235352,
+        "bottom": 5.191067695617676,
+        "left": 10.382135391235352
+      },
+      "x": 101,
+      "y": 7395,
+      "width": 164,
+      "height": 38
+    },
+    {
+      "name": "Tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 6.488834381103516,
+      "padding": {
+        "top": 5.191067695617676,
+        "right": 10.382135391235352,
+        "bottom": 5.191067695617676,
+        "left": 10.382135391235352
+      },
+      "x": 205,
+      "y": 7453,
+      "width": 168,
+      "height": 25
+    },
+    {
+      "name": "Text",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 39,
+      "y": 7555,
+      "width": 597,
+      "height": 123
+    },
+    {
+      "name": "Name",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 4,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 39,
+      "y": 7555,
+      "width": 122,
+      "height": 22
+    },
+    {
+      "name": "Frame 1000005844",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 39,
+      "y": 7585,
+      "width": 597,
+      "height": 93
+    },
+    {
+      "name": "Link",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 0,
+      "padding": {
+        "top": 4,
+        "right": 16,
+        "bottom": 4,
+        "left": 16
+      },
+      "x": 39,
+      "y": 7702,
+      "width": 99,
+      "height": 26
+    },
+    {
+      "name": "Link",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 4,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 55,
+      "y": 7706,
+      "width": 67,
+      "height": 18
+    },
+    {
+      "name": "Coding",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 16,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 439,
+      "y": 6064,
+      "width": 409,
+      "height": 379
+    },
+    {
+      "name": "Text",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 439,
+      "y": 6348,
+      "width": 362,
+      "height": 95
+    },
+    {
+      "name": "Author",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 16,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 439,
+      "y": 6348,
+      "width": 190,
+      "height": 24
+    },
+    {
+      "name": "Author",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 16,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 439,
+      "y": 6348,
+      "width": 408,
+      "height": 21
+    },
+    {
+      "name": "Button",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 24,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": -1,
+      "y": 6508,
+      "width": 149,
+      "height": 24
+    },
+    {
+      "name": "Results",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 32,
+      "padding": {
+        "top": 0,
+        "right": 40,
+        "bottom": 0,
+        "left": 40
+      },
+      "x": 0,
+      "y": 5070,
+      "width": 677,
+      "height": 742
+    },
+    {
+      "name": "side heading / option 4",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 16,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 5070,
+      "width": 597,
+      "height": 112
+    },
+    {
+      "name": "tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 4,
+        "right": 12,
+        "bottom": 6,
+        "left": 12
+      },
+      "x": 40,
+      "y": 5070,
+      "width": 127,
+      "height": 34
+    },
+    {
+      "name": "text",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 0,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 66,
+      "y": 5074,
+      "width": 75,
+      "height": 24
+    },
+    {
+      "name": "Subheading",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 30,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 5120,
+      "width": 597,
+      "height": 62
+    },
+    {
+      "name": "Cards",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 30,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 5214,
+      "width": 597,
+      "height": 598
+    },
+    {
+      "name": "Content Block / Title and text  vertical / with line",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 24,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 5214,
+      "width": 597,
+      "height": 138
+    },
+    {
+      "name": "Frame 1948755116",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 12,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 5271,
+      "width": 597,
+      "height": 81
+    },
+    {
+      "name": "Content Block / Title and text  vertical / with line",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 24,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 5382,
+      "width": 597,
+      "height": 116
+    },
+    {
+      "name": "Frame 1948755116",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 12,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 5439,
+      "width": 597,
+      "height": 59
+    },
+    {
+      "name": "Content Block / Title and text  vertical / with line",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 24,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 5528,
+      "width": 597,
+      "height": 138
+    },
+    {
+      "name": "Frame 1948755116",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 12,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 5585,
+      "width": 597,
+      "height": 81
+    },
+    {
+      "name": "Content Block / Title and text  vertical / with line",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 24,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 5696,
+      "width": 597,
+      "height": 116
+    },
+    {
+      "name": "Frame 1948755116",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 12,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 5753,
+      "width": 597,
+      "height": 59
+    },
+    {
+      "name": "Client & Product Overview",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 32,
+      "padding": {
+        "top": 0,
+        "right": 40,
+        "bottom": 0,
+        "left": 40
+      },
+      "x": 0,
+      "y": 1987,
+      "width": 677,
+      "height": 226
+    },
+    {
+      "name": "central heading",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 16,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 1987,
+      "width": 597,
+      "height": 34
+    },
+    {
+      "name": "tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 4,
+        "right": 12,
+        "bottom": 6,
+        "left": 12
+      },
+      "x": 189,
+      "y": 1987,
+      "width": 299,
+      "height": 34
+    },
+    {
+      "name": "text",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 0,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 215,
+      "y": 1991,
+      "width": 247,
+      "height": 24
+    },
+    {
+      "name": "Frame 2147226659",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 16,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 2053,
+      "width": 597,
+      "height": 160
+    },
+    {
+      "name": "Text / Medium / enter alignment",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 10,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 2053,
+      "width": 597,
+      "height": 100
+    },
+    {
+      "name": "Text / light / enter alignment",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 10,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 2169,
+      "width": 597,
+      "height": 44
+    },
+    {
+      "name": "Text / Medium / enter alignment",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 10,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 41,
+      "y": 2226,
+      "width": 848,
+      "height": 50
+    },
+    {
+      "name": "Executive Summary",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 32,
+      "padding": {
+        "top": 0,
+        "right": 40,
+        "bottom": 0,
+        "left": 40
+      },
+      "x": 0,
+      "y": 2779,
+      "width": 677,
+      "height": 284
+    },
+    {
+      "name": "central heading",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 16,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 2779,
+      "width": 597,
+      "height": 48
+    },
+    {
+      "name": "tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 4,
+        "right": 12,
+        "bottom": 6,
+        "left": 12
+      },
+      "x": 608,
+      "y": 2779,
+      "width": 155,
+      "height": 34
+    },
+    {
+      "name": "text",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 0,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 634,
+      "y": 2783,
+      "width": 247,
+      "height": 24
+    },
+    {
+      "name": "Frame 2147226659",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 16,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 2859,
+      "width": 597,
+      "height": 204
+    },
+    {
+      "name": "Text / light / enter alignment",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 10,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 2859,
+      "width": 597,
+      "height": 88
+    },
+    {
+      "name": "Text / Medium / enter alignment",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 10,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 2963,
+      "width": 597,
+      "height": 100
+    },
+    {
+      "name": "info / option 2",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 69,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 295,
+      "y": 3066,
+      "width": 850,
+      "height": 38
+    },
+    {
+      "name": "left",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 336,
+      "y": 3066,
+      "width": 350,
+      "height": 38
+    },
+    {
+      "name": "right",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 755,
+      "y": 3066,
+      "width": 350,
+      "height": 38
+    },
+    {
+      "name": "Frame 2147226674",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 24,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 80,
+      "y": 3223,
+      "width": 516,
+      "height": 90
+    },
+    {
+      "name": "intro",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 10,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 104,
+      "y": 3222,
+      "width": 492,
+      "height": 92
+    },
+    {
+      "name": "button",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 16,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 160,
+      "y": 3397,
+      "width": 357,
+      "height": 44
+    },
+    {
+      "name": "Button CTA",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 0,
+      "padding": {
+        "top": 4,
+        "right": 24,
+        "bottom": 4,
+        "left": 24
+      },
+      "x": 172,
+      "y": 3397,
+      "width": 201,
+      "height": 44
+    },
+    {
+      "name": "Link",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 4,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 196,
+      "y": 3409,
+      "width": 153,
+      "height": 20
+    },
+    {
+      "name": "Frame 1948756265",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 389,
+      "y": 3409,
+      "width": 117,
+      "height": 21
+    },
+    {
+      "name": "Scope & Approach",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 32,
+      "padding": {
+        "top": 0,
+        "right": 40,
+        "bottom": 0,
+        "left": 40
+      },
+      "x": 0,
+      "y": 3601,
+      "width": 677,
+      "height": 1349
+    },
+    {
+      "name": "side heading / option 1",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 16,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 3601,
+      "width": 597,
+      "height": 158
+    },
+    {
+      "name": "tag",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 4,
+        "right": 12,
+        "bottom": 6,
+        "left": 12
+      },
+      "x": 40,
+      "y": 3601,
+      "width": 184,
+      "height": 34
+    },
+    {
+      "name": "text",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 0,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 66,
+      "y": 3605,
+      "width": 132,
+      "height": 24
+    },
+    {
+      "name": "Expert information",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 64,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 3791,
+      "width": 597,
+      "height": 1159
+    },
+    {
+      "name": "Bloc 1",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 24,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 3791,
+      "width": 597,
+      "height": 449
+    },
+    {
+      "name": "Small heading / 26",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 3791,
+      "width": 597,
+      "height": 136
+    },
+    {
+      "name": "info",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 3951,
+      "width": 597,
+      "height": 289
+    },
+    {
+      "name": "Text",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 3951,
+      "width": 597,
+      "height": 289
+    },
+    {
+      "name": "Bullet / Text Only / with line",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 8,
+        "right": 80,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 3951,
+      "width": 597,
+      "height": 75
+    },
+    {
+      "name": "Bullet / Text Only / with line",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 16,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 24
+      },
+      "x": 40,
+      "y": 3959,
+      "width": 550,
+      "height": 67
+    },
+    {
+      "name": "Bullet / Text Only / with line",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 8,
+        "right": 80,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 4034,
+      "width": 597,
+      "height": 53
+    },
+    {
+      "name": "Bullet / Text Only / with line",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 16,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 24
+      },
+      "x": 40,
+      "y": 4042,
+      "width": 550,
+      "height": 45
+    },
+    {
+      "name": "Bullet / Text Only / with line",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 8,
+        "right": 80,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 4095,
+      "width": 597,
+      "height": 75
+    },
+    {
+      "name": "Bullet / Text Only / with line",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 16,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 24
+      },
+      "x": 40,
+      "y": 4103,
+      "width": 550,
+      "height": 67
+    },
+    {
+      "name": "Bullet / Text Only / with line",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 8,
+        "right": 80,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 4178,
+      "width": 597,
+      "height": 53
+    },
+    {
+      "name": "Bullet / Text Only / with line",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 16,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 24
+      },
+      "x": 40,
+      "y": 4186,
+      "width": 550,
+      "height": 45
+    },
+    {
+      "name": "Step 6",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 8,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 4239,
+      "width": 597,
+      "height": 1
+    },
+    {
+      "name": "Bloc 2",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 24,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 4304,
+      "width": 597,
+      "height": 291
+    },
+    {
+      "name": "Small heading / 26",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 4304,
+      "width": 597,
+      "height": 83
+    },
+    {
+      "name": "info",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 4411,
+      "width": 597,
+      "height": 184
+    },
+    {
+      "name": "Text",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 4411,
+      "width": 597,
+      "height": 184
+    },
+    {
+      "name": "Bullet / Text Only / with line",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 8,
+        "right": 80,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 4411,
+      "width": 597,
+      "height": 53
+    },
+    {
+      "name": "Bullet / Text Only / with line",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 16,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 24
+      },
+      "x": 40,
+      "y": 4419,
+      "width": 550,
+      "height": 45
+    },
+    {
+      "name": "Bullet / Text Only / with line",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 8,
+        "right": 80,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 4472,
+      "width": 597,
+      "height": 53
+    },
+    {
+      "name": "Bullet / Text Only / with line",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 16,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 24
+      },
+      "x": 40,
+      "y": 4480,
+      "width": 550,
+      "height": 45
+    },
+    {
+      "name": "Bullet / Text Only / with line",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 8,
+        "right": 80,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 4533,
+      "width": 597,
+      "height": 53
+    },
+    {
+      "name": "Bullet / Text Only / with line",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 16,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 24
+      },
+      "x": 40,
+      "y": 4541,
+      "width": 550,
+      "height": 45
+    },
+    {
+      "name": "Step 6",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 8,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 4594,
+      "width": 597,
+      "height": 1
+    },
+    {
+      "name": "Bloc 3",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 24,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 4659,
+      "width": 597,
+      "height": 291
+    },
+    {
+      "name": "Small heading / 26",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 4659,
+      "width": 597,
+      "height": 83
+    },
+    {
+      "name": "info",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 4766,
+      "width": 597,
+      "height": 184
+    },
+    {
+      "name": "Text",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 4766,
+      "width": 597,
+      "height": 184
+    },
+    {
+      "name": "Bullet / Text Only / with line",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 8,
+        "right": 80,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 4766,
+      "width": 597,
+      "height": 53
+    },
+    {
+      "name": "Bullet / Text Only / with line",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 16,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 24
+      },
+      "x": 40,
+      "y": 4774,
+      "width": 550,
+      "height": 45
+    },
+    {
+      "name": "Bullet / Text Only / with line",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 8,
+        "right": 80,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 4827,
+      "width": 597,
+      "height": 53
+    },
+    {
+      "name": "Bullet / Text Only / with line",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 16,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 24
+      },
+      "x": 40,
+      "y": 4835,
+      "width": 550,
+      "height": 45
+    },
+    {
+      "name": "Bullet / Text Only / with line",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 8,
+        "right": 80,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 4888,
+      "width": 597,
+      "height": 53
+    },
+    {
+      "name": "Bullet / Text Only / with line",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 16,
+      "padding": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 24
+      },
+      "x": 40,
+      "y": 4896,
+      "width": 550,
+      "height": 45
+    },
+    {
+      "name": "Step 6",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 8,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 4949,
+      "width": 597,
+      "height": 1
+    },
+    {
+      "name": "Frame 2147226662",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 24,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 2333,
+      "width": 597,
+      "height": 326
+    },
+    {
+      "name": "Frame 1948756009",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 8,
+      "padding": {
+        "top": 0,
+        "right": 24,
+        "bottom": 0,
+        "left": 0
+      },
+      "x": 40,
+      "y": 2333,
+      "width": 3486,
+      "height": 326
+    }
+  ],
+  "borders": [
+    {
+      "name": "6492cc27a26553cd27896ba8_Avatar-3.png",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "weight": 2.721088171005249,
+      "x": 267,
+      "y": 317,
+      "width": 49,
+      "height": 49
+    },
+    {
+      "name": "Line ",
+      "color": {
+        "r": 233,
+        "g": 233,
+        "b": 233,
+        "a": 1
+      },
+      "weight": 1,
+      "x": 40,
+      "y": 859,
+      "width": 597,
+      "height": 0
+    },
+    {
+      "name": "Line ",
+      "color": {
+        "r": 233,
+        "g": 233,
+        "b": 233,
+        "a": 1
+      },
+      "weight": 1,
+      "x": 40,
+      "y": 1867,
+      "width": 597,
+      "height": 0
+    },
+    {
+      "name": "Line 357",
+      "color": {
+        "r": 140,
+        "g": 142,
+        "b": 145,
+        "a": 1
+      },
+      "weight": 1.2023543119430542,
+      "x": 298,
+      "y": 6216,
+      "width": 0,
+      "height": 208
+    },
+    {
+      "name": "Line 357",
+      "color": {
+        "r": 140,
+        "g": 142,
+        "b": 145,
+        "a": 1
+      },
+      "weight": 1.2023543119430542,
+      "x": 292,
+      "y": 6216,
+      "width": 11,
+      "height": 0
+    },
+    {
+      "name": "Line 357",
+      "color": {
+        "r": 140,
+        "g": 142,
+        "b": 145,
+        "a": 1
+      },
+      "weight": 1.2023543119430542,
+      "x": 292,
+      "y": 6424,
+      "width": 11,
+      "height": 0
+    },
+    {
+      "name": "Line 153",
+      "color": {
+        "r": 224,
+        "g": 62,
+        "b": 27,
+        "a": 1
+      },
+      "weight": 3,
+      "x": 275,
+      "y": 6114,
+      "width": 0,
+      "height": 284
+    },
+    {
+      "name": "Line 155",
+      "color": {
+        "r": 224,
+        "g": 62,
+        "b": 27,
+        "a": 1
+      },
+      "weight": 3,
+      "x": 611,
+      "y": 6114,
+      "width": 0,
+      "height": 284
+    },
+    {
+      "name": "Line 154",
+      "color": {
+        "r": 224,
+        "g": 62,
+        "b": 27,
+        "a": 1
+      },
+      "weight": 3,
+      "x": 275,
+      "y": 6114,
+      "width": 336,
+      "height": 284
+    },
+    {
+      "name": "Line 156",
+      "color": {
+        "r": 224,
+        "g": 62,
+        "b": 27,
+        "a": 1
+      },
+      "weight": 3,
+      "x": 275,
+      "y": 6114,
+      "width": 339,
+      "height": 287
+    },
+    {
+      "name": "Vector 3847",
+      "color": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "weight": 1,
+      "x": 127,
+      "y": 6606,
+      "width": 434,
+      "height": 381
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.303045392036438,
+      "x": -7,
+      "y": 6921,
+      "width": 114,
+      "height": 38
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.303045392036438,
+      "x": 423,
+      "y": 6878,
+      "width": 112,
+      "height": 70
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.303045392036438,
+      "x": 514,
+      "y": 6843,
+      "width": 63,
+      "height": 46
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.303045392036438,
+      "x": 316,
+      "y": 6673,
+      "width": 88,
+      "height": 97
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.303045392036438,
+      "x": 448,
+      "y": 6762,
+      "width": 130,
+      "height": 76
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.303045392036438,
+      "x": 588,
+      "y": 6900,
+      "width": 60,
+      "height": 28
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.303045392036438,
+      "x": -9,
+      "y": 6814,
+      "width": 74,
+      "height": 29
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.303045392036438,
+      "x": 112,
+      "y": 6786,
+      "width": 127,
+      "height": 49
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.303045392036438,
+      "x": 336,
+      "y": 6881,
+      "width": 52,
+      "height": 31
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.303045392036438,
+      "x": 388,
+      "y": 6777,
+      "width": 68,
+      "height": 33
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.303045392036438,
+      "x": 480,
+      "y": 6744,
+      "width": 47,
+      "height": 27
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.303045392036438,
+      "x": 73,
+      "y": 6755,
+      "width": 68,
+      "height": 33
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.303045392036438,
+      "x": 264,
+      "y": 6829,
+      "width": 107,
+      "height": 31
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.303045392036438,
+      "x": 60,
+      "y": 6866,
+      "width": 165,
+      "height": 38
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.303045392036438,
+      "x": 184,
+      "y": 6935,
+      "width": 168,
+      "height": 25
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 2,
+      "x": -7,
+      "y": 7460,
+      "width": 174,
+      "height": 57
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 2,
+      "x": 422,
+      "y": 7417,
+      "width": 171,
+      "height": 107
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 2,
+      "x": 512,
+      "y": 7382,
+      "width": 97,
+      "height": 70
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 2,
+      "x": 315,
+      "y": 7212,
+      "width": 135,
+      "height": 148
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 2,
+      "x": 447,
+      "y": 7302,
+      "width": 198,
+      "height": 116
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 2,
+      "x": 587,
+      "y": 7439,
+      "width": 91,
+      "height": 42
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 2,
+      "x": -9,
+      "y": 7353,
+      "width": 113,
+      "height": 44
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 2,
+      "x": 112,
+      "y": 7326,
+      "width": 196,
+      "height": 75
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 2,
+      "x": 335,
+      "y": 7420,
+      "width": 79,
+      "height": 47
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 2,
+      "x": 387,
+      "y": 7316,
+      "width": 103,
+      "height": 50
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 2,
+      "x": 479,
+      "y": 7284,
+      "width": 72,
+      "height": 42
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 2,
+      "x": 73,
+      "y": 7294,
+      "width": 103,
+      "height": 50
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 2,
+      "x": 264,
+      "y": 7368,
+      "width": 164,
+      "height": 48
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 2,
+      "x": 60,
+      "y": 7405,
+      "width": 253,
+      "height": 58
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 2,
+      "x": 183,
+      "y": 7473,
+      "width": 258,
+      "height": 38
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.297766923904419,
+      "x": 44,
+      "y": 7442,
+      "width": 113,
+      "height": 37
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.297766923904419,
+      "x": 408,
+      "y": 7405,
+      "width": 111,
+      "height": 70
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.297766923904419,
+      "x": 485,
+      "y": 7376,
+      "width": 63,
+      "height": 46
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.297766923904419,
+      "x": 317,
+      "y": 7231,
+      "width": 88,
+      "height": 97
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.297766923904419,
+      "x": 429,
+      "y": 7307,
+      "width": 130,
+      "height": 76
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.297766923904419,
+      "x": 548,
+      "y": 7424,
+      "width": 59,
+      "height": 28
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.297766923904419,
+      "x": 42,
+      "y": 7351,
+      "width": 74,
+      "height": 29
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.297766923904419,
+      "x": 145,
+      "y": 7328,
+      "width": 127,
+      "height": 49
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.297766923904419,
+      "x": 335,
+      "y": 7408,
+      "width": 52,
+      "height": 31
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.297766923904419,
+      "x": 378,
+      "y": 7320,
+      "width": 68,
+      "height": 33
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.297766923904419,
+      "x": 456,
+      "y": 7292,
+      "width": 47,
+      "height": 27
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.297766923904419,
+      "x": 112,
+      "y": 7301,
+      "width": 68,
+      "height": 33
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.297766923904419,
+      "x": 274,
+      "y": 7363,
+      "width": 107,
+      "height": 31
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.297766923904419,
+      "x": 101,
+      "y": 7395,
+      "width": 164,
+      "height": 38
+    },
+    {
+      "name": "Tag",
+      "color": {
+        "r": 42,
+        "g": 43,
+        "b": 47,
+        "a": 1
+      },
+      "weight": 1.297766923904419,
+      "x": 205,
+      "y": 7453,
+      "width": 168,
+      "height": 25
+    },
+    {
+      "name": "Line 525",
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "weight": 2,
+      "x": 80,
+      "y": 3224,
+      "width": 0,
+      "height": 89
+    },
+    {
+      "name": "Line 357",
+      "color": {
+        "r": 140,
+        "g": 142,
+        "b": 145,
+        "a": 1
+      },
+      "weight": 1.2023543119430542,
+      "x": 299,
+      "y": 3885,
+      "width": 0,
+      "height": 208
+    },
+    {
+      "name": "Line 357",
+      "color": {
+        "r": 140,
+        "g": 142,
+        "b": 145,
+        "a": 1
+      },
+      "weight": 1.2023543119430542,
+      "x": 293,
+      "y": 3885,
+      "width": 11,
+      "height": 0
+    },
+    {
+      "name": "Line 357",
+      "color": {
+        "r": 140,
+        "g": 142,
+        "b": 145,
+        "a": 1
+      },
+      "weight": 1.2023543119430542,
+      "x": 293,
+      "y": 4093,
+      "width": 11,
+      "height": 0
+    },
+    {
+      "name": "Rectangle ",
+      "color": {
+        "r": 80,
+        "g": 124,
+        "b": 123,
+        "a": 1
+      },
+      "weight": 1,
+      "x": 64,
+      "y": 3968,
+      "width": 6,
+      "height": 6
+    },
+    {
+      "name": "Rectangle ",
+      "color": {
+        "r": 80,
+        "g": 124,
+        "b": 123,
+        "a": 1
+      },
+      "weight": 1,
+      "x": 64,
+      "y": 4051,
+      "width": 6,
+      "height": 6
+    },
+    {
+      "name": "Rectangle ",
+      "color": {
+        "r": 80,
+        "g": 124,
+        "b": 123,
+        "a": 1
+      },
+      "weight": 1,
+      "x": 64,
+      "y": 4112,
+      "width": 6,
+      "height": 6
+    },
+    {
+      "name": "Rectangle ",
+      "color": {
+        "r": 80,
+        "g": 124,
+        "b": 123,
+        "a": 1
+      },
+      "weight": 1,
+      "x": 64,
+      "y": 4195,
+      "width": 6,
+      "height": 6
+    },
+    {
+      "name": "Rectangle ",
+      "color": {
+        "r": 80,
+        "g": 124,
+        "b": 123,
+        "a": 1
+      },
+      "weight": 1,
+      "x": 64,
+      "y": 4428,
+      "width": 6,
+      "height": 6
+    },
+    {
+      "name": "Rectangle ",
+      "color": {
+        "r": 80,
+        "g": 124,
+        "b": 123,
+        "a": 1
+      },
+      "weight": 1,
+      "x": 64,
+      "y": 4489,
+      "width": 6,
+      "height": 6
+    },
+    {
+      "name": "Rectangle ",
+      "color": {
+        "r": 80,
+        "g": 124,
+        "b": 123,
+        "a": 1
+      },
+      "weight": 1,
+      "x": 64,
+      "y": 4550,
+      "width": 6,
+      "height": 6
+    },
+    {
+      "name": "Rectangle ",
+      "color": {
+        "r": 80,
+        "g": 124,
+        "b": 123,
+        "a": 1
+      },
+      "weight": 1,
+      "x": 64,
+      "y": 4783,
+      "width": 6,
+      "height": 6
+    },
+    {
+      "name": "Rectangle ",
+      "color": {
+        "r": 80,
+        "g": 124,
+        "b": 123,
+        "a": 1
+      },
+      "weight": 1,
+      "x": 64,
+      "y": 4844,
+      "width": 6,
+      "height": 6
+    },
+    {
+      "name": "Rectangle ",
+      "color": {
+        "r": 80,
+        "g": 124,
+        "b": 123,
+        "a": 1
+      },
+      "weight": 1,
+      "x": 64,
+      "y": 4905,
+      "width": 6,
+      "height": 6
+    }
+  ]
+}
