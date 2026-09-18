@@ -11,4 +11,6 @@ export interface PageUnderTest {
 export const PAGES: PageUnderTest[] = [
   { slug: 'cartier', url: 'https://mev-stage.webflow.io/private-pages/cartier' },
   { slug: 'open-study', url: 'https://mev-stage.webflow.io/private-pages/open-study' },
+  { slug: 'hipaa', url: 'https://mev-stage.webflow.io/private-pages/healthcare-software-development' },
+  { slug: 'tdd', url: 'https://mev-stage.webflow.io/private-pages/technical-due-diligence' },
 ];
