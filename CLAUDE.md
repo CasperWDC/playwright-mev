@@ -29,11 +29,16 @@ Rules:
 
 ## Known site-wide bugs (recognize, don't re-report as new)
 
-Seen identically on multiple pages (`cartier`, `open-study`) — a shared-component/CSS issue, not page-specific:
-- **"View All"** button/link: Figma expects white text, live renders `rgb(80,124,123)` (teal) — link color not overridden by the button style.
-- **Dark heading text**: Figma expects `rgb(38,38,38)`, live renders `rgb(24,24,27)` — one shared CSS class rendering a shade too dark.
+Confirmed identically across `cartier`, `open-study`, `hipaa`, `tdd` — shared-component/CSS issues, not page-specific. If a new page's report shows one of these exact RGB pairs or patterns, call it out as "known site-wide bug, already seen on other pages" alongside the finding — don't present it as a fresh discovery:
 
-If a new page's report shows either of these exact patterns, call it out as "known site-wide bug, already seen on other pages" alongside the finding — don't present it as a fresh discovery.
+- **Dark heading/body text**: Figma expects `rgb(38,38,38)`, live renders `rgb(24,24,27)` — one shared CSS class rendering a shade too dark. Seen on section titles ("Executive Summary", "What We Assess", the Open Study H1).
+- **Muted/secondary text (tags, testimonial author lines)**: Figma expects `rgb(125,125,125)`, live renders `rgb(88,89,96)`.
+- **Light background badge/label**: Figma expects `rgb(241,241,241)`, live renders pure white `rgb(255,255,255)` (Cartier's "How We Did It", TDD's "Access Control" tab label).
+- **Contact form ("Get in touch" footer component)**: "Request an NDA upfront" and "1 file up to 10 MB." always render font-weight 300 instead of the expected 400/500 (two steps lighter, not the site's normal one-step convention — this is a real bug, confirmed by the user, not to be loosened). The form's fields (Name/Email/message box) are also consistently shifted right by ~9-13px on desktop and the whole footer contact block shifted ~9-10px on mobile.
+- **Footer contact info on mobile** ("212-933-9921", "solutions@mev.com", "Privacy Policy"): renders 2px smaller than the Figma spec (16→14px, 14→12px).
+- **"View All" button/link** (seen on cartier, open-study only so far — page-dependent on whether this component is present): Figma expects white text, live renders `rgb(80,124,123)` (teal) — link color not overridden by the button style.
+
+Not yet confirmed as site-wide (seen once, on `tdd`) but worth watching for on future pages: a table/matrix header row (`<th>`) missing its Figma-specified 1px border entirely, and short section-eyebrow tags/labels wrapping to 2 lines instead of 1 with a wrong border color (`rgb(60,60,60)` expected, `rgb(88,89,96)` got).
 
 ## The tablet breakpoint is intentionally not 1:1 with the Figma tablet frame
 
